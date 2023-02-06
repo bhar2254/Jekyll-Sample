@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome to my Sample!"
+date:   2023-02-06 7:59:08 -0600
+categories: jekyll update
+---
+
+Welcome to the first page on my sample Jekyll blog. It's pretty empty in here for now, but I will update as I need to test out functionality periodically.
+
+Bookmark this page to stay up to date on any exciting updates!
+
+- Blaine
+
+[jekyll-sample]: https://github.com/bhar2254/Jekyll-Sample

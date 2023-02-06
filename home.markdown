@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-permalink: /
+permalink: /home
 ---
 
 ## Welcome to the home of my sample Jekyll site!

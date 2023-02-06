@@ -30,5 +30,5 @@ Experienced in WMS and IT support solutions. With education in Data Analysis, WM
 ## Education
 
 + Truman State University
-	Bachelor's degree, Statistics
-	2016-2020
+	- Bachelor's degree, Statistics
+	- 2016-2020

@@ -12,3 +12,9 @@ Bookmark this page to stay up to date on any exciting updates!
 - Blaine
 
 [jekyll-sample]: https://github.com/bhar2254/Jekyll-Sample
+
+| Header | Header | Header |
+| :- | -- | -: |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |

@@ -16,10 +16,10 @@ Experienced in WMS and IT support solutions. With education in Data Analysis, WM
 
 + Programmer / Analyst
 	- Indian Hills Community College
-	- Nov 2021-Present
+	- Nov 2022 - Present
 + Inventory Control Specialist
 	- Lineage Logistics
-	- Jul 2022 - Present (3 months +)
+	- Jul 2022 - Nov 2022 (4 months)
 + Inventory Control Supervisor
 	- National Fulfillment Services
 	- Jul 2021 - Jun 2022 (1 year)
